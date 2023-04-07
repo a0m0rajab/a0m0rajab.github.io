@@ -1,0 +1,54 @@
+title : "Services and skills"
+content: |
+  Abdurrahman provides different services and skills for companies and individuals which you can have a glimpse on it here:
+style: "style1 small onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Software engineering"
+    content : |
+      a software engineer with minimum guidance needed and large network of developers, I can help you to create your software
+      and move to the next step with your company.
+    style : "style2 major fa-computer"
+
+  # feature item loop
+  - name : "Web Development"
+    content : | 
+      I can provide you services related to UI/UX design, the back-end and frontend designs as well as the integrity of your program.
+      we can work on developing tools from scratch of finding the best open source solution for you.
+    style : "solid style2 major fa-save"
+    
+  # feature item loop
+  - name : "DevRel"
+    content : |
+      As someone with tech background and experience in social media nad public speaking, I will be able to create and give insights
+      in this topic. Based from my own experience and the books and experts that I got the knowledge from them.
+    style : "solid style2 major fa-chart-bar"
+    
+  # feature item loop
+  - name : "Podcast"
+    content : |
+      I host a podcast about technology and would be able to share my experience with you, my podcast is on top 5 in the MENA region.
+    style : "solid style2 major fa-wifi"
+    
+  # feature item loop
+  - name : "Public speaking"
+    content : |
+      I have been invited to speak in local events about technology and how to develop software, and talked at TV as well, I will be happy to talk at your conference or event.
+    style : "solid style2 major fa-cog"
+    
+  # feature item loop
+  - name : "Consultancy"
+    content : | 
+      I provide consultancy in the ares mentioned in this services, feel free to reach out if you need to discuss it.
+    style : "style2 major fa-paper-plane"
+   # feature item loop
+  - name : "Technical writing"
+    content : |
+      I am technical writer with sense of community and love to help and share the ideas I have with others.
+    style : "style2 major fa-paper-plane"
+     # feature item loop
+  - name : "Leveling up"
+    content : |
+      If you are an NGO and want to level up your work in tech with open source and by having an insights from software engineer, I can help you with that.
+      I can share my thoughts, experience and few tricks to make your work more efficient over the time.  
+    style : "style2 major fa-paper-plane"

@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Hadith Tech"
+content: |
+  Hadith tech is a fireside interviews podcast, hosts people from different backgrounds and fields. 
+  The podcast is being produced in two languages: Arabic and English.
+button: 
+  label: "Learn More"
+  link: "https://hadithtech.com"
+image:
+  url: "images/spotlight01.jpg"

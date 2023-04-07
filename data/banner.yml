@@ -1,0 +1,18 @@
+####################### Banner #########################
+style: "style3 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Abdurrahman Rajab"
+subtitle: |
+  A software engineer with a <strong style="background: powderblue;">creative</strong> side!
+content : |
+   Software engineer worked with startups and scale-up, host of <a href="https://hadithtech.com">Hadith Tech</a>,
+   invited to 
+   <a href="https://www.youtube.com/playlist?list=PL5RA-ZnFo9FOHip9QJt_JGLzqI5D6cNjS">speak on TV (discussed AI and security) </a>,
+    invited to GitHub Universe Conference,
+   and hosted 20+ workshops related to open source, technology, and AI.
+button:
+  label : "More"
+  link : "#first"
+button1:
+  label : "Blog"
+  link : "/blog"
+image : "images/banner.jpg"
