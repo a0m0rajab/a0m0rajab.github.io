@@ -13,7 +13,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "https://a0m0rajab.github.io/"
 publishDir = "public"
 
 # Remote
